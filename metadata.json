@@ -1,0 +1,5 @@
+{
+  "name": "EcoWelfare Analysis Tool",
+  "description": "A sophisticated interactive microeconomic tool for analyzing Consumer Surplus, Producer Surplus, and Government Welfare changes under various economic interventions like taxes, subsidies, and price controls.",
+  "requestFramePermissions": []
+}
